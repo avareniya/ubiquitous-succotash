@@ -5,4 +5,4 @@
 * Create several branches
 * Upload several files
 * Perform merges
-* Other functionality as required
+* Other functionality as required!
