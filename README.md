@@ -3,6 +3,6 @@
 ## Goals
 * Understand github processes
 * Create several branches
-* Upload several files
-* Perform merges
-* Other functionality as required!
+  * Add an initial frontpage for review
+  * Add a second frontpage for review
+* Perform merge of first frontpage to main branch
